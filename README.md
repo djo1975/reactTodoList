@@ -2,7 +2,7 @@
 
 <div>
 
-  <h1><b>Math Magicians</b></h1><br/><br/>
+  <h1><b>Todo List-Exercise</b></h1><br/><br/>
 
 </div>
 
@@ -25,11 +25,10 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Math Magicians with hooks<a name="about-project"></a>
+# 📖 Todo List Exercise<a name="about-project"></a>
 
-**Math Magicians with hooks**
-
-In this project you will refactor the Calculator component you developed in the past projects. Instead of using class based components, you will use now hooks.
+**Todo List Exercise**
+In this exercise, you are going to consolidate your knowledge about React, components, props, state, and hooks, by following a tutorial.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -42,15 +41,15 @@ In this project you will refactor the Calculator component you developed in the 
 </ul>
 
 ### Key Features <a name="key-features"></a>
-- **Calculate operations**
+- **Simply Todo list with basic style**
 
-  - The website that calculates some mathmathical operations
+  - The Exercise
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-[you can see the live demo through this link](https://serene-beijinho-0254c5.netlify.app)
+[you can see the live demo through this link](https://deft-lollipop-8a67cd.netlify.app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,7 +83,7 @@ To clone this repository to your desired folder, follow the steps below:
 
 - Follow the steps below
 
-  - Visit this link "https://github.com/djo1975/mathMagicians"
+  - Visit this link "https://github.com/djo1975/reactTodoList"
   - Click the green button labelled "code"
   - Select the "Open with GitHub Desktop" option
   - After the GitHub Desktop add opens, click the "clone repo" button
@@ -108,7 +107,7 @@ To run the project, execute the following command:
 
 You can deploy this project by:
 
-- visiting your repository on [GitHub](https://github.com/djo1975/mathMagicians)
+- visiting your repository on [GitHub](https://github.com/djo1975/reactTodoList)
 - Click on settings
 - Go to the "Pages" option
 - Select the main branch and save

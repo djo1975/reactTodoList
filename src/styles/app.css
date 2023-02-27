@@ -1,52 +1,51 @@
 * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-  }
-
-  body {
-    font-family: "Segoe UI", sans-serif;
-    line-height: 1.4;
-    color: #000;
-    background: #cff4f9;
-    height: 100vh;
-    font-weight: 400;
-  }
-  .header {
-    background-color: #2196F3;
-    color: white;
-    padding: 10px;
-    text-align: center;
-  }
-
-  footer {
-    background-color: #2196F3;
-    color: white;
-    padding: 10px;
-    text-align: center;
-  }
-
-  #root {
-        display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 1rem;
-    border: 1rem solid;
-  }
-
-  input {
-    margin: 1rem;
-    font-size: large;
-  }
-
-  button {
-    padding: 0.5rem;
-    border-radius: 9px;
-  }
-.dr {
-    border: 5px solid crimson;
-    padding: 5px;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
-  input checkbox {
-    margin-right: 1rem;
-  }
+
+body {
+  font-family: "Segoe UI", sans-serif;
+  line-height: 1.4;
+  color: #000;
+  background: #cff4f9;
+  height: 100vh;
+  font-weight: 400;
+}
+
+.header {
+  background-color: #2196f3;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+footer {
+  background-color: #2196f3;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  border: 1rem solid;
+}
+
+input {
+  margin: 1rem;
+  font-size: large;
+}
+
+button {
+  padding: 0.5rem;
+  border-radius: 9px;
+}
+
+.dr {
+  border: 5px solid crimson;
+  padding: 5px;
+}
